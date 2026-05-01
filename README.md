@@ -1,6 +1,41 @@
-# weatherapp
+# 🌦️ Flutter Weather App
 
-A new Flutter project.
+A simple and aesthetic weather app built using Flutter that displays real-time weather information for any city.
+
+---
+
+## ✨ Features
+
+* Search weather by city name
+* Real-time temperature and conditions
+* Clean and user-friendly UI
+* API integration
+
+---
+
+## 📁 Project Structure
+
+
+lib/
+ ├── main.dart
+ ├── weatherapp.dart
+ 
+
+
+
+## 🛠️ Built With
+
+* Flutter
+* Dart
+
+
+---
+
+## 👩‍💻 Author
+
+Leejala Maharjan
+📧 [mleejala@gmail.com](mailto:mleejala@gmail.com)
+
 
 ## Getting Started
 
